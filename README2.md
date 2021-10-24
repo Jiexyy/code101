@@ -1,3 +1,3 @@
-![Solution] https://github.com/Jiexyy/code101/blob/main/Math_puzzles.png)
+![Solution](https://github.com/Jiexyy/code101/blob/main/Math_puzzles.png)
 # Solution
 It is essential to know that the irregular shape is composed of **squares**. If you draw the lines from the background accross the shape, the shape becomes divided into smaller squares. Therefore t==, the task becomes to draw a line that seperated the shape into two equal sets of smaller squares. After dividing the shape into squares, you would have *12* squares. Therefore, to divide it into equal parts, we need six squares in each section. You could then number the squares from the left hand side from one to six. Do the same for the other side. Ensure you work from outside inward. Now, draw a line at the boundary that is *where the countings stop **close to the middle***. That is the line that seperates the shape into two equal parts.
