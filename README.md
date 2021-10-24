@@ -1,13 +1,3 @@
-# code101
-My first Repository of github
-* # Assignment Info
-  * Course Name: CS191 FYS -Math Puzzles
-  * Name: Michael Ifejiagwa
-  * Section: Mondays
-
-* # What is Math Puzzle in CICS
-  * It is a very engaging class that teaches problem solving in very unconventional ways. Rather than just pouring out instructions that the instructor thinks tha you should know, you get a hands on experirence using interesting puzzles. Couple with interacting with your classmates, this class is really amazing. When programming, problem solving is a very essential skill and by presentung these math puzzles and trying to profer a solution, we develop a problem solving initiative. [Here is the link to one of the classes](https://umass.moonami.com/course/view.php?id=28034)
-
-* # A Puzzle I Like
-  * It is a puzzle about people who are captured by aliens. They are preseted with a question and are given some time to brainstorm. The condition is thar if they fail it, the aliens would eat them. My friend told me abpout it but [here is the TED video](https://www.ted.com/talks/alex_gendler_can_you_solve_the_prisoner_hat_riddle?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)
-
+![Solution](C:\Users\Jiexy\github\code101\part_2)
+# Solution
+It is essential to know that the irregular shape is composed of **squares**. If you draw the lines from the background accross the shape, the shape becomes divided into smaller squares. Therefore t==, the task becomes to draw a line that seperated the shape into two equal sets of smaller squares. After dividing the shape into squares, you would have *12* squares. Therefore, to divide it into equal parts, we need six squares in each section. You could then number the squares from the left hand side from one to six. Do the same for the other side. Ensure you work from outside inward. Now, draw a line at the boundary that is *where the countings stop **close to the middle***. That is the line that seperates the shape into two equal parts.
